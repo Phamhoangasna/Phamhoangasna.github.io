@@ -10,6 +10,7 @@ li {
 body {
     background: #d69393;
     z-index: -100;
+    padding-top: 50px;
 }
 #mid {
     height: 200px;
